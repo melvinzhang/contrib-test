@@ -1,0 +1,1 @@
+I'm from NUS SoC and interested in contributing to Django!
