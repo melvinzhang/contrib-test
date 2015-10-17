@@ -19,10 +19,10 @@ following command:
 
     a) Make the name of the file your first name, then a hyphen, then a random
        number, for example `jessica-19678`.
-    b) In this file, add your home town and an open source Python project you
+    b) In this file, add in where you are from and an open source project you
        are interested in contributing to, for example:
 
-       I'm from Nashville and interested in contributing to Django!
+       I'm from NUS SoC and interested in contributing to Django!
 
 4. Commit this addition to your fork of the project using the following commands:
 
