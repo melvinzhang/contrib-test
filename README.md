@@ -14,6 +14,7 @@ button to fork this GitHub project.
 following command:
 
         git clone https://github.com/<your username>/contrib-test
+        cd contrib-test
 
 3. Using your favorite text editor, add a new file to this project.
 
@@ -31,7 +32,7 @@ following command:
 
 5. Push your changes to the remote repository with the following command:
 
-        git push origin HEAD:master
+        git push
 
 6. Visit the GitHub page for your fork of the project, e.g.
 
@@ -40,7 +41,7 @@ following command:
  Observe that your file is visible in the GitHub web view for the
 project.
 
-7. Click the greeen button to create a pull request for your changes. This will
+7. Click the green button to create a pull request for your changes. This will
 take you to a page where you can review your diff and commit message. Click the
 green "Create Pull Request" button, leave a comment, and click the green "Send
 pull request button".
@@ -51,6 +52,7 @@ request. Wait a few minutes for this to happen.
 9. Update your fork of the project to see everyone else's changes, using the
 following command:
 
-        git pull --rebase
+        git pull https://github.com/melvinzhang/contrib-test/
+        git push
 
 10. Explore the changes with commands like `git log` and `git show`.
